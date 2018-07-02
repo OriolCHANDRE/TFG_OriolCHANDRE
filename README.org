@@ -1,1 +1,3 @@
 #+TITLE: Final Degree Project
+
+The aim of this TFG is to realise an analysis of the different methodologies that can be used while manufacturing a monocoque structure. Furthermore, this analysis is being used to fabricate specimens which would allow the evaluation of the production’s viability and the specimens behaviour.
